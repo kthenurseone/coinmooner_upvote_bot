@@ -17,7 +17,7 @@
 </p>
 
 ## About
-Dextool Trend bot makes your token trending on dextools.
+Coinmooner Upvote bot makes your token trending on [coinmooner](https://coinmooner.com/)
 
 If you are interested message me on Telegram [@kthenurseone](https://t.me/kthenurseone). 
 
